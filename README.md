@@ -3,3 +3,6 @@ So this is essentially a spinning torus, lots of maths, with ascii characters re
 
 
 Just a test push to make sure that my github desktop is connected to github and is pushing successfully
+
+
+Everything is in the VENV, this is so that I can import pygame.
